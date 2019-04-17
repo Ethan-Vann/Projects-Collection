@@ -7,6 +7,7 @@
 </div>
 
 <div align="center">
+
 ![java-Image](https://raw.githubusercontent.com/Ethan-Vann/gitProject/master/icons/java.png)
 
 ![c-Image](https://raw.githubusercontent.com/Ethan-Vann/gitProject/master/icons/c.png)

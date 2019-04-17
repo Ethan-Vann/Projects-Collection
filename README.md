@@ -5,7 +5,7 @@
 <div align="center">	
 	A collection of my smaller mostly single file projects done in java, python and c
 </div>
-<<<<<<< HEAD
+
 <div align="center">
 ![java-Image](https://github.com/Ethan-Vann/gitProject/blob/master/icons/java.png)
 ![c-Image](https://github.com/Ethan-Vann/gitProject/blob/master/icons/c.png)

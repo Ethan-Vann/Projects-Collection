@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-	<img src="https://github.com/Ethan-Vann/gitProject/icons/java.png>
-	<img src="https://github.com/Ethan-Vann/gitProject/icons/c.png>
-	<img src="https://github.com/Ethan-Vann/gitProject/icons/python.png>
+	<img src="https://github.com/Ethan-Vann/gitProject/blob/master/icons/java.png>
+	<img src="https://github.com/Ethan-Vann/gitProject/blob/master/icons/c.png>
+	<img src="https://github.com/Ethan-Vann/gitProject/blob/master/icons/python.png>
 </div>
 

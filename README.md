@@ -1,9 +1,7 @@
 <h1 align="center">
-	A collection of my smaller mostly single file projects done in java, python and c
+	Smaller Projects made by -Ethan Vann
 </h1>
 
-<div align="center">
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
+<div align="center">	
+	A collection of my smaller mostly single file projects done in java, python and c
 </div>

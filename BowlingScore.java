@@ -1,4 +1,4 @@
-public class bowlingScore {
+public class BowlingScore {
     public static int bowlingCalc(int[][] scores) {
         int totalScore = 0;
         for (int i = 0; i < scores.length; i++) {

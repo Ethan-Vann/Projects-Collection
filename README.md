@@ -7,10 +7,7 @@
 </div>
 
 <div align="center">
-
-![java-Image](https://raw.githubusercontent.com/Ethan-Vann/gitProject/master/icons/java.png)
-
-![c-Image](https://raw.githubusercontent.com/Ethan-Vann/gitProject/master/icons/c.png)
-
-![python-Image](https://raw.githubusercontent.com/Ethan-Vann/gitProject/master/icons/python.png)
+<img src="https://raw.githubusercontent.com/Ethan-Vann/gitProject/master/icons/java.png" width="200" height="200">
+	<img src="https://raw.githubusercontent.com/Ethan-Vann/gitProject/master/icons/c.png" width="200" height="200">
+	<img src="https://raw.githubusercontent.com/Ethan-Vann/gitProject/master/icons/python.png" width="200" height="200">
 </div>
